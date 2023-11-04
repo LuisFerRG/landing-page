@@ -21,6 +21,7 @@
     "@sentry/node": "^7.77.0",
     "har-validator": "^5.1.5",
     "intl-messageformat-parser": "^6.4.4",
+    "npm": "^10.2.3",
     "uuid": "^9.0.1"
   }
 }
